@@ -1,0 +1,22 @@
+{
+  "product": [
+    {
+      "id": "102",
+      "pname": "Samsung",
+      "cost": "657778",
+      "qty": "12"
+    },
+    {
+      "id": "101",
+      "pname": "Iphone",
+      "cost": "56787657",
+      "qty": "4567"
+    }
+  ],
+  "emp": [
+    {
+      "id": "102",
+      "name": "ajay"
+    }
+  ]
+}

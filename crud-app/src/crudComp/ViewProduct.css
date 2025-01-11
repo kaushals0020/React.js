@@ -1,0 +1,33 @@
+/* ViewProduct.css */
+
+.container {
+  text-align: center; /* Center the heading */
+}
+
+.product-table {
+  width: 80%; /* Set table width */
+  border-collapse: collapse; /* Collapse borders */
+  margin: 20px auto; /* Center the table */
+  border: 1px solid black; /* Border around the table */
+  background-color: #f8f9fa; /* Light background for the table */
+}
+
+.product-table th,
+.product-table td {
+  border: 1px solid black; /* Border for table cells */
+  padding: 8px; /* Padding for table cells */
+  text-align: center; /* Center text in cells */
+}
+
+.product-table thead {
+  background-color: #343a40; /* Dark background for header */
+  color: white; /* White text for header */
+}
+
+.product-table tbody tr:nth-child(even) {
+  background-color: #e9ecef; /* Light gray for even rows */
+}
+
+.product-table tbody tr:nth-child(odd) {
+  background-color: white; /* White for odd rows */
+}
